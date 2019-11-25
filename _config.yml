@@ -1,0 +1,29 @@
+url: https://deepankurk.github.io
+baseurl:
+favicon: "/img/geek.png"
+# Site settings
+title: My Humble Space
+email: hello@deepankurkansal.com
+phone: +91-9457509700
+description: "Be peacified, Be calm, Be extra-ordinary-Deepankur Kansal"
+keywords: "Deepankur,Kansal,IITK,Kanpur,Meerut,"
+
+cv: "Deepankur_Kansal_Resume.pdf"
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/deepankur.kansal.5
+  - title: github
+    url: https://github.com/DeepankurK
+  - title: linkedin
+    url: https://www.linkedin.com/in/deepankuk/  
+  - title: envelope
+    url: mailto:deepank.kansal@gmail.com
+# Postal address (add as many lines as necessary)
+address:
+  - line: F-306, Hall-5
+  - line: IIT Kanpur
+
+# Build settings
+markdown: kramdown
+permalink: pretty
